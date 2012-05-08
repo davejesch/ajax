@@ -1,0 +1,22 @@
+.validation-error
+{
+	border: 1px solid #EC9B9B;
+}
+.validation-msg
+{
+	color: #EC9B9B;
+	clear: left;
+}
+form.validation-errors
+{
+	background-color: ping;
+}
+
+.validationErrorMsg
+{
+	display: none;
+	padding: 3px 3px;
+	border: 1px solid #EC9B9B;
+	background-color: pink;
+	font-weight: bold;
+}
